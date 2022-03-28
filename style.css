@@ -1,6 +1,6 @@
-/*Background color*/
+/*Background color- Per lesson 11 instructions I changed the color to #e7fbfb, I did not make adjustments to heading because the header is the logo image*/
 body {
-    background-color: #FBDEB5;
+    background-color: #e7fbfb;
 }
 img {
     max-width: 100%;
